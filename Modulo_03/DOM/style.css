@@ -1,0 +1,27 @@
+#tituloTopo{
+    text-align: center;
+}
+
+#exemplo {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+
+.verde {
+    background-color: #00FF00;
+    color: #000000;
+}
+
+.vermelho {
+    background-color: #ff0000;
+    color: #ffff;
+}
+
+.azul {
+    background-color: #0000FF;
+    color:#ff0000;
+}
